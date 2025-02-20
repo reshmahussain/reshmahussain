@@ -75,13 +75,7 @@
 
 </div>
 
-<div style="background-color: #1a1b26; padding: 20px; border-radius: 6px; margin: 20px 0;">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=reshmahussain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Stats">
-
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=24283b&height=100&section=footer)
 
